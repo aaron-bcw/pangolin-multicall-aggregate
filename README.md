@@ -4,4 +4,6 @@
 `node index.js`
 
 ## To run tests
-`npm run test`
+- `cp .env-example ./env`
+- Add your keys to the env
+- `npm run test`
